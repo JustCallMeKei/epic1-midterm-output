@@ -7,4 +7,4 @@
 ⭐ The 8 circles represented the 8 rays of sun in the PH flag. <br />
 ⭐ Lastly the multicolored lines represented the different ethnicities of the country, the pink circle touches all ethnicity since I believe only she, who is sitting at the highest position in the country can unite every Filipinos. Even though we lost she can still run 3 or more times.<br />
 
-Source: 🐢 [Turtle](https://docs.python.org/3/library/turtle.html) 🐢 Youtube
+References: 🐢 [Turtle](https://docs.python.org/3/library/turtle.html) 🐢 Youtube
